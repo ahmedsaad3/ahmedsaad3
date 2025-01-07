@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/1ahmedsaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1ahmedsaad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmedsaad4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedsaad4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -60,13 +60,14 @@
 </a> 
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsaad3&card_width=50%&theme=dark&show_icons=true&locale=en&layout=compact" alt="ahmedsaad3" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsaad3&theme=dark&show_icons=true&locale=en&layout=compact&border_radius=10&currStreakNum=3B82F6&sideNums=3B82F6&currStreakLabel=3B82F6&border=F9F9F9&stroke=F9F9F9&sideLabels=F9F9F9&excludeDaysLabel=F9F9F9" alt="Top Languages" style="width: 48%; height: 200px;" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsaad3&show_icons=true&locale=en&theme=dark&border_radius=10&currStreakNum=3B82F6&sideNums=3B82F6&currStreakLabel=3B82F6&border=F9F9F9&stroke=F9F9F9&sideLabels=F9F9F9&excludeDaysLabel=F9F9F9" alt="GitHub Stats" style="width: 48%; height: 20%;" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedsaad3&show_icons=true&locale=en&theme=dark" alt="ahmedsaad3" /></p>
+<p></p>
 
-
-<p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedsaad3&theme=dark&border_radius=10&card_width=600&type=png&currStreakNum=3B82F6&sideNums=3B82F6&currStreakLabel=3B82F6&border=F9F9F9&stroke=F9F9F9&sideLabels=F9F9F9&excludeDaysLabel=F9F9F9" alt="GitHub Streak" /></a></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ahmedsaad3&theme=dark&border_radius=10&currStreakNum=3B82F6&sideNums=3B82F6&currStreakLabel=3B82F6&border=F9F9F9&stroke=F9F9F9&sideLabels=F9F9F9&excludeDaysLabel=F9F9F9" alt="GitHub Streak" width="50%"/></p>
 
 
 
